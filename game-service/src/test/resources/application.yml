@@ -1,0 +1,12 @@
+logging:
+  level:
+    org:
+      springframework: OFF
+    root: OFF
+spring:
+  main:
+    banner-mode: OFF
+player-service:
+  host: localhost
+  port: 8081
+  entryPoint: player
